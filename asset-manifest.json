@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hooks-events/static/css/main.690313b7.css",
+    "main.js": "/react-hooks-events/static/js/main.c51dcca7.js",
+    "index.html": "/react-hooks-events/index.html",
+    "main.690313b7.css.map": "/react-hooks-events/static/css/main.690313b7.css.map",
+    "main.c51dcca7.js.map": "/react-hooks-events/static/js/main.c51dcca7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.690313b7.css",
+    "static/js/main.c51dcca7.js"
+  ]
+}
